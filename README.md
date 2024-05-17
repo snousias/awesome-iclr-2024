@@ -1,6 +1,6 @@
 # Awesome ICLR 2024
 
-This repository provides and overview of all the papers and their respective resources presented in ICLR 2024. The repository is currently under construction.
+This repository lists papers and their respective resources presented in ICLR 2024. The repository is currently under construction.
 
 
 ![Image Description](prater.jpg)
