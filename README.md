@@ -3,7 +3,7 @@
 This repository lists papers and their respective resources presented in ICLR 2024. The repository is currently under construction.
 
 
-![Image Description](prater.jpg){width=200px}
+![Image Description](prater.jpg)
 
 
 ## Application / Robotics 
