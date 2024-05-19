@@ -105,6 +105,12 @@ This repository lists papers and their respective resources presented in ICLR 20
 - https://github.com/tydpan/GPC/
 
 
+**A Mutual Information Perspective on Federated Contrastive Learning**
+- https://iclr.cc/media/iclr-2024/Slides/18925.pdf
+- https://iclr.cc/media/PosterPDFs/ICLR%202024/18925.png?t=1714148686.430328
+- https://openreview.net/forum?id=JrmPG9ufKg
+
+
 ## Deep Learning->Generative Models and Autoencoders
 
 **Manifold Diffusion Fields**
