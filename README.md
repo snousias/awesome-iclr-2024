@@ -117,7 +117,7 @@ This repository lists papers and their respective resources presented in ICLR 20
 
 **Separating common from salient patterns with Contrastive Representation Learning**
 - https://iclr.cc/virtual/2024/poster/19533
-- https://openreview.net/forum?id=Ax2yRhCQr1
+- https://openreview.net/forum?id=30N3bNAiw3
 - https://iclr.cc/media/iclr-2024/Slides/19533.pdf
 - https://github.com/neurospin-projects/2024_rlouiset_sep_clr
 
