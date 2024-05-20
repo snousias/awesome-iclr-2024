@@ -122,6 +122,11 @@ This repository lists papers and their respective resources presented in ICLR 20
 - https://github.com/neurospin-projects/2024_rlouiset_sep_clr
 
 
+**Self-Supervised Dataset Distillation for Transfer Learning**
+- https://openreview.net/forum?id=h57gkDO2Yg
+- https://iclr.cc/virtual/2024/poster/18115
+- https://github.com/db-Lee/selfsup_dd
+
 ## Deep Learning->Generative Models and Autoencoders
 
 **Manifold Diffusion Fields**
